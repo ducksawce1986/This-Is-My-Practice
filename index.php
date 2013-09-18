@@ -50,7 +50,7 @@
 			   THE</b> most confusing things I've ever attempted to learn.</p>
 
 		<h3>No worries though. I understand it now though. Otherwise, you wouldn't 
-			be seeing this wonderful little bio...</h3>  
+			be seeing this wonderful little bio..</h3>  
 	</body>
 </html>
 
